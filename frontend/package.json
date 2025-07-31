@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "axios": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "postcss-import": "^16.1.0",
+    "tailwindcss": "^4.0.15"
+  }
+}
